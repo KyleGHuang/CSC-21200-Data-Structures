@@ -1,0 +1,6 @@
+﻿  statisticiantest.cpp
+  stats.cpp
+C:\Users\kyleh\source\repos\Data Structures - Project 1\stats.cpp(18,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kyleh\source\repos\Data Structures - Project 1\stats.cpp(35,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Data Structures - Project 1.vcxproj -> C:\Users\kyleh\source\repos\Data Structures - Project 1\Debug\Data Structures - Project 1.exe
