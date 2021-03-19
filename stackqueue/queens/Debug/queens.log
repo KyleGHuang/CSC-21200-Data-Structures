@@ -1,0 +1,4 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  queens.cxx
+queens.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  queens.vcxproj -> C:\Users\kyleh\source\repos\stackqueue\Debug\queens.exe

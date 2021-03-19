@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\kyleh\source\repos\Quadratic Sorting Algorithms\Source.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kyleh\source\repos\Quadratic Sorting Algorithms\Source.cpp(36,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kyleh\source\repos\Quadratic Sorting Algorithms\Source.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+  Quadratic Sorting Algorithms.vcxproj -> C:\Users\kyleh\source\repos\Quadratic Sorting Algorithms\Debug\Quadratic Sorting Algorithms.exe

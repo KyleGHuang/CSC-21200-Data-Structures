@@ -1,0 +1,2 @@
+C:\Users\kyleh\source\repos\Quadratic Sorting Algorithms\Debug\Quadratic Sorting Algorithms.exe
+C:\Users\kyleh\source\repos\Quadratic Sorting Algorithms\Debug\Quadratic Sorting Algorithms.pdb
